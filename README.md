@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow which fulfills the requirements for SDC310L.
+My name is Dave and I love fishing and random projects around the house.
